@@ -1,3 +1,4 @@
+![Screenshot 2025-05-22 at 12 14 02 AM](https://github.com/user-attachments/assets/deb15836-1548-4fa7-b816-f12830a05ba7)
 # VLAN-Configuration
 
 This hands-on project simulated a small enterprise network using Cisco Packet Tracer, involving:
