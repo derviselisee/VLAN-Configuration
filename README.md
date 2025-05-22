@@ -18,7 +18,7 @@ VLAN 30 – Sales (192.168.30.0/24)
 VLAN 40 – Accounting (192.168.40.0/24)
 
 Each VLAN was configured on different switch ports, and inter-VLAN communication was enabled through router-on-a-stick using subinterfaces on the router. Trunk links between switches and the router were configured for VLAN tagging using 802.1Q encapsulation.
-
+SO , PC1 in VLAN 10 can talk to PC 3 in VLAN 20 OR PC 8 in VLAN 40
 
 Skills Gained
 - Network Design & Topology Building
