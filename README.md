@@ -1,3 +1,5 @@
+![Screenshot 2025-05-22 at 12 14 55 AM](https://github.com/user-attachments/assets/0461f0e8-5c71-49c4-8ce8-c435bdabcf6c)
+![Screenshot 2025-05-22 at 12 12 32 AM](https://github.com/user-attachments/assets/addd1338-ff3c-4104-8d6c-b40cd7d79a00)
 ![Screenshot 2025-05-22 at 12 14 02 AM](https://github.com/user-attachments/assets/deb15836-1548-4fa7-b816-f12830a05ba7)
 # VLAN-Configuration
 
